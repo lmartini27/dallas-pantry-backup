@@ -1,0 +1,2 @@
+pantry_id,name,lat,lon,open_min,close_min,last_checkin_min,walk_in,verified,source
+P01,EXAMPLE PANTRY (replace),32.7767,-96.7970,720,780,765,True,False,"URL + date you checked it"

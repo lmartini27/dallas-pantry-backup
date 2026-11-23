@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+# downloaded / generated data (re-create with the scripts)
+data/dart_gtfs/
+data/synthetic_gtfs/
+data/synthetic_pantries.csv
+data/pantries.csv
+data/geocode_cache.csv
+outputs/
